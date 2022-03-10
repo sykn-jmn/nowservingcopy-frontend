@@ -1,0 +1,9 @@
+.filter_button{
+    padding: 8px 15px;
+    border: solid 1px rgb(226, 226, 226);
+    border-radius: 50px;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    margin-left: 12px;
+}

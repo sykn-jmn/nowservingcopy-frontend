@@ -1,0 +1,21 @@
+.card{
+    width: 29%;
+    padding-top: 15%;
+    box-shadow: 0px 0px 14px -3px rgba(0, 0, 0, 0.418);
+    border-radius: 17px;
+    margin: 10px 10px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    background-repeat: no-repeat;
+}
+
+.title{
+    width: 80%;
+    margin: 5px;
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: center;
+    text-overflow: ellipsis;
+}
